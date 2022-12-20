@@ -4,6 +4,8 @@ by [Tyler Le](https://www.youtube.com/@Tillerlis)
 
     This is the home of the Literary Portfolio of Tyler Le. 
     For more information about Tyler Le, please look to the information card linked above.
+    
+    To navigate this page, scroll to the desired year of study.
 
 ## Click Fest: The Sword Fighting Clicker Game
 
