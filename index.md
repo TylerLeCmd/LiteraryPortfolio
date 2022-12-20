@@ -1,7 +1,6 @@
-# Welcome to CPProjects
+# Welcome to the Literary Portfolio
 
-## Processing Projects
-by Tyler Le
+by [Tyler Le](https://www.youtube.com/@Tillerlis)
 
 [Email](https://tylervlogs.tl@gmail.com)
 
