@@ -2,9 +2,8 @@
 
 by [Tyler Le](https://www.youtube.com/@Tillerlis)
 
-[Email](https://tylervlogs.tl@gmail.com)
-
-Certfications: 1st Semester Certification Test
+    This is the home of the Literary Portfolio of Tyler Le. 
+    For more information about Tyler Le, please look to the information card linked above.
 
 ## Click Fest: The Sword Fighting Clicker Game
 
