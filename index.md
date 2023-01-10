@@ -1,3 +1,6 @@
+title: Welcome
+layout: default
+
 # Welcome to the Literary Portfolio
 
 by [Tyler Le](https://www.youtube.com/@Tillerlis)
