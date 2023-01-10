@@ -13,3 +13,6 @@ by [Tyler Le](https://www.youtube.com/@Tillerlis)
     To navigate this page, scroll to the desired year of study.
     IMPORTANT: CURRENTLY WORK-IN-PROGRESS
 
+## How To Read Literature Like A Professor
+## Szymborska Studies
+## Drive Your Plow Over the Bones of the Dead
