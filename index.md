@@ -1,5 +1,7 @@
+---
 title: Welcome
 layout: default
+---
 
 # Welcome to the Literary Portfolio
 
