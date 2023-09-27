@@ -13,6 +13,6 @@ by Tyler Le
     To navigate this page, scroll to the desired year of study.
     IMPORTANT: CURRENTLY WORK-IN-PROGRESS
 
-## How To Read Literature Like A Professor
+## [How To Read Literature Like A Professor](https://tylerlecmd.github.io/LiteraryPortfolio/2023/03/14/htrllap.md)
 ## Szymborska Studies
 ## Drive Your Plow Over the Bones of the Dead
